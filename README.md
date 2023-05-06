@@ -1,4 +1,4 @@
-# Using Machine Learning Methods for Identification of lncRNA from Microarray Sepsis Gene Expression Data
+# Explainable Machine Learning Methods for the Identification of lncRNA from Microarray Sepsis Gene Expression Time Series Data
 By Joseph Luper Tsenum [1], Milad Rad [2], Rishikesan Kamaleswaran [3]
 
 #### Corresponding Author's Email: jtsenum3@gatech.edu
