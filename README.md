@@ -1,4 +1,4 @@
 ### lncRNA Biomarker Discovery from Microarray Sepsis Gene Expression Time Series Data Using Machine Learning
 
-
+Sepsis is a disease caused by dysregulated reaction to infection. Early diagnosis of sepsis is important to its treatment. Increasing evidence have demonstrated the roles of lncRNAs as potential biomarkers of many human diseases, including sepsis. Identifying lncRNAs as biomarkers of different diseases is a difficult task. The choice of feature selection methods and balancing small data sets is challenging.  In recent years, machine learning methods have been successfully applied on microarray data for different predictive genomic studies. In the present study, we trained binary classification models that predicted lncRNAs as potential biomarkers in sepsis. Among our models, XGBoost performed best at AUC of 0.97. Based on XGBoost's predictive power, We identified  10 (ten) potential biomarkers for sepsis; namely WDFY3-AS2, NFE4, WDR11-AS1, TP53TG1, ZNF790-AS1, ANKRD10-IT1, LINC01352, CHRM3-AS2, LINC00528, FAM13A-AS1. 
 
